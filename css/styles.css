@@ -91,6 +91,11 @@
   }
 }
 
+.profile-img {
+  position: relative;
+  margin-left: 96.5px;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
